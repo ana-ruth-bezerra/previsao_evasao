@@ -6,7 +6,7 @@ Repositório reservado para a implementação da EDA e modelo preditivo como eta
 
 **1. Clone o repositório e crie o ambiente virtual:**
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/ana-ruth-bezerra/previsao_evasao
 cd previsao_evasao
 python -m venv venv
 venv\Scripts\activate   # Windows
