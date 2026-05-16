@@ -38,8 +38,8 @@ data/
 ```
 previsao_evasao/
 ├── data/
-│   ├── raw/          # Dados brutos do PNP/SISTEC (não versionados)
-│   └── processed/    # Dados processados gerados pelos notebooks (não versionados)
+│   ├── raw/          
+│   └── processed/    
 ├── notebooks/
 │   ├── 01_tratamento_matriculas.ipynb
 │   ├── 02_tratamento_eficiencia.ipynb
@@ -48,3 +48,6 @@ previsao_evasao/
 ├── requirements.txt
 └── README.md
 ```
+
+### Links importantes:
+[Conceitos e fatores para uso na Plataforma Nilo Peçanha (PNP) para cálculo dos indicadores de gestão das Instituições da Rede Federal de Educação Profissional, Científica e Tecnológica](https://www.in.gov.br/web/dou/-/portaria-n-146-de-25-de-marco-de-2021-310597431)
