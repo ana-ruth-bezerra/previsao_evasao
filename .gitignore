@@ -1,6 +1,7 @@
 venv/
 
 data/**/*.csv
+data/**/*.parquet
 
 __pycache__/
 *.py[cod]
